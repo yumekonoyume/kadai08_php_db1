@@ -1,0 +1,28 @@
+/* イベントフォーム専用のスタイル */
+label {
+    font-size: 1.1em;
+    color: #555;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+input[type="file"] {
+    border: none;
+}
+
+input[type="text"], textarea {
+    font-size: 1em;
+}
+
+input[type="submit"] {
+    font-size: 1.2em;
+}
+
+.form-container {
+    background-color: #e9f7ef;
+    padding: 30px;
+    border-radius: 8px;
+}
+
